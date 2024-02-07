@@ -1,0 +1,14 @@
+D:\Computer Science\csharp\BankAccountExample\bin\Debug\net8.0\BankAccountExample.exe
+D:\Computer Science\csharp\BankAccountExample\bin\Debug\net8.0\BankAccountExample.deps.json
+D:\Computer Science\csharp\BankAccountExample\bin\Debug\net8.0\BankAccountExample.runtimeconfig.json
+D:\Computer Science\csharp\BankAccountExample\bin\Debug\net8.0\BankAccountExample.dll
+D:\Computer Science\csharp\BankAccountExample\bin\Debug\net8.0\BankAccountExample.pdb
+D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\BankAccountExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\BankAccountExample.AssemblyInfoInputs.cache
+D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\BankAccountExample.AssemblyInfo.cs
+D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\BankAccountExample.csproj.CoreCompileInputs.cache
+D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\BankAccountExample.dll
+D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\refint\BankAccountExample.dll
+D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\BankAccountExample.pdb
+D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\BankAccountExample.genruntimeconfig.cache
+D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\ref\BankAccountExample.dll

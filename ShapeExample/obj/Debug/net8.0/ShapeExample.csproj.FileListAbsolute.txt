@@ -1,0 +1,14 @@
+D:\Computer Science\csharp\ShapeExample\obj\Debug\net8.0\ShapeExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Computer Science\csharp\ShapeExample\obj\Debug\net8.0\ShapeExample.AssemblyInfoInputs.cache
+D:\Computer Science\csharp\ShapeExample\obj\Debug\net8.0\ShapeExample.AssemblyInfo.cs
+D:\Computer Science\csharp\ShapeExample\obj\Debug\net8.0\ShapeExample.csproj.CoreCompileInputs.cache
+D:\Computer Science\csharp\ShapeExample\bin\Debug\net8.0\ShapeExample.exe
+D:\Computer Science\csharp\ShapeExample\bin\Debug\net8.0\ShapeExample.deps.json
+D:\Computer Science\csharp\ShapeExample\bin\Debug\net8.0\ShapeExample.runtimeconfig.json
+D:\Computer Science\csharp\ShapeExample\bin\Debug\net8.0\ShapeExample.dll
+D:\Computer Science\csharp\ShapeExample\bin\Debug\net8.0\ShapeExample.pdb
+D:\Computer Science\csharp\ShapeExample\obj\Debug\net8.0\ShapeExample.dll
+D:\Computer Science\csharp\ShapeExample\obj\Debug\net8.0\refint\ShapeExample.dll
+D:\Computer Science\csharp\ShapeExample\obj\Debug\net8.0\ShapeExample.pdb
+D:\Computer Science\csharp\ShapeExample\obj\Debug\net8.0\ShapeExample.genruntimeconfig.cache
+D:\Computer Science\csharp\ShapeExample\obj\Debug\net8.0\ref\ShapeExample.dll
