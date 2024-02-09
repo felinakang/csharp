@@ -12,3 +12,4 @@ D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\refint\BankAccoun
 D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\BankAccountExample.pdb
 D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\BankAccountExample.genruntimeconfig.cache
 D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\ref\BankAccountExample.dll
+D:\Computer Science\csharp\BankAccountExample\obj\Debug\net8.0\BankAccountExample.sourcelink.json
